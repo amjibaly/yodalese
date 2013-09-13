@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "3.4.0",
-    "ejs": "*"
+    "ejs": "*",
+    "redis": "0.8.4"
   }
 }
